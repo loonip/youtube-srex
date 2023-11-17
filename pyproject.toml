@@ -9,6 +9,7 @@ readme = "README.md"
 [tool.poetry.dependencies]
 python = "^3.11"
 yt-dlp = "^2023.10.13"
+youtube-search-python = "^1.6.6"
 
 
 [build-system]
